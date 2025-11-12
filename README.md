@@ -2,9 +2,9 @@
 
 **Author:** MH Fahad  
 **Course:** DSCI 100 – Introduction to Data Science  
-**Instructor:** Grace Tompkins  
-**Group:** 22  
-**Repository:** `minecraft_game_report_grp22`
+**Instructor:** Eugenia Yu  
+**Group:** 33  
+**Repository:** `minecraft_game_report_grp33`
 
 ---
 
@@ -25,8 +25,8 @@ This question supports **demand forecasting**, helping ensure the server has eno
 
 | File | Description |
 |------|--------------|
-| `minecraft_game_report_grp22.ipynb` | Main Jupyter Notebook containing all code, analysis, and explanations. |
-| `minecraft_game_report_grp22.html` | Exported HTML version for submission to Canvas. |
+| `minecraft_game_report_grp33.ipynb` | Main Jupyter Notebook containing all code, analysis, and explanations. |
+| `minecraft_game_report_grp33.html` | Exported HTML version for submission to Canvas. |
 | `players.csv` | Dataset describing unique players and their characteristics. |
 | `sessions.csv` | Dataset describing individual play sessions. |
 | `README.md` | Overview and setup instructions for this repository. |
